@@ -1,0 +1,141 @@
+Gender,Age,Height,Weight,Family History with Overweight,Frequent consumption of high caloric food,Frequency of consumption of vegetables,Number of main meals,Consumption of food between meals,Smoke,Consumption of water daily,Calories consumption monitoring,Physical activity frequency,Time using technology devices,Consumption of alcohol,Transportation used,Obesity
+Female,17.3,160.0,65.0,yes,yes,Always,2,Sometimes,no,Between 1 and 2 L,yes,1 or 2 days,More than 5 hours,Sometimes,Public Transportation,Overweight Level I
+Male,29.7,190.9,129.2,yes,yes,Sometimes,3,Sometimes,no,Less than a liter,no,2 or 4 days,0–2 hours,Sometimes,Public Transportation,Obesity Type II
+Female,51.0,159.0,50.0,yes,no,Always,3,Sometimes,yes,More than 2 L,yes,2 or 4 days,0–2 hours,no,Public Transportation,Normal Weight
+Male,21.0,162.6,70.0,no,yes,Sometimes,1,no,no,Between 1 and 2 L,no,1 or 2 days,0–2 hours,Sometimes,Public Transportation,Overweight Level I
+Male,19.5,187.9,112.9,yes,yes,Sometimes,2,Sometimes,no,More than 2 L,no,1 or 2 days,3–5 hours,Sometimes,Public Transportation,Obesity Type I
+Female,19.2,153.0,42.0,no,yes,Always,1,Frequently,no,Between 1 and 2 L,no,I do not have,3–5 hours,Sometimes,Public Transportation,Insufficient Weight
+Female,26.0,162.29422017556848,110.77688070227394,yes,yes,Always,3,Sometimes,no,More than 2 L,no,I do not have,0–2 hours,Sometimes,Public Transportation,Obesity Type III
+Male,24.0,184.0,121.0,yes,yes,Always,3,Sometimes,no,Between 1 and 2 L,no,2 or 4 days,0–2 hours,Sometimes,Public Transportation,Obesity Type II
+Male,19.2,181.4,85.3,yes,yes,Always,3,Sometimes,no,Between 1 and 2 L,no,2 or 4 days,3–5 hours,Sometimes,Public Transportation,Overweight Level I
+Male,23.4,185.3,87.1,yes,yes,Sometimes,1,Sometimes,no,Less than a liter,no,1 or 2 days,3–5 hours,Sometimes,Automobile,Overweight Level I
+Female,42.2,176.8,75.6,yes,yes,Always,3,Sometimes,no,Between 1 and 2 L,no,I do not have,0–2 hours,Sometimes,Automobile,Overweight Level I
+Male,23.0,174.2,105.0,yes,yes,Sometimes,3,Sometimes,no,Between 1 and 2 L,no,1 or 2 days,0–2 hours,Sometimes,Public Transportation,Obesity Type I
+Male,24.13995301973834,187.3693458614031,121.71331767324611,yes,yes,Always,3,Sometimes,no,Between 1 and 2 L,no,1 or 2 days,0–2 hours,Sometimes,Public Transportation,Obesity Type II
+Male,19.6,176.8,56.3,yes,yes,Sometimes,3+,Sometimes,no,Between 1 and 2 L,no,2 or 4 days,3–5 hours,no,Automobile,Insufficient Weight
+Female,28.2,165.8,78.0,yes,yes,Always,2,Sometimes,no,Between 1 and 2 L,no,1 or 2 days,0–2 hours,Frequently,Automobile,Overweight Level II
+Male,26.8,175.6,112.3,yes,yes,Never,3,Sometimes,no,Between 1 and 2 L,no,I do not have,3–5 hours,Sometimes,Automobile,Obesity Type II
+Male,18.0,171.1,50.9,yes,yes,Sometimes,3,Sometimes,no,Between 1 and 2 L,no,I do not have,More than 5 hours,Sometimes,Public Transportation,Insufficient Weight
+Male,33.0,176.0,66.5,no,no,Sometimes,3,Sometimes,no,Between 1 and 2 L,no,4 or 5 days,3–5 hours,Sometimes,Automobile,Normal Weight
+Male,31.3,180.3,91.1,yes,yes,Sometimes,3,Sometimes,no,Less than a liter,no,I do not have,0–2 hours,Sometimes,Public Transportation,Overweight Level II
+Male,22.5,162.9,70.0,no,yes,Sometimes,1,no,no,More than 2 L,no,I do not have,0–2 hours,Sometimes,Public Transportation,Overweight Level I
+Female,23.597899978811085,176.19579995762217,75.59789997881109,no,no,Sometimes,3,Sometimes,no,Less than a liter,no,1 or 2 days,0–2 hours,Frequently,Public Transportation,Normal Weight
+Female,18.0,171.0,75.0,yes,yes,Always,3,Sometimes,no,Between 1 and 2 L,no,1 or 2 days,0–2 hours,no,Public Transportation,Overweight Level I
+Male,23.1,184.9,121.7,yes,yes,Always,3,Sometimes,no,Between 1 and 2 L,no,1 or 2 days,0–2 hours,Sometimes,Public Transportation,Obesity Type II
+Male,17.1,178.3,56.0,yes,yes,Sometimes,3+,Sometimes,no,Between 1 and 2 L,no,2 or 4 days,3–5 hours,no,Automobile,Insufficient Weight
+Female,20.0,162.5,74.4,yes,no,Always,1,Sometimes,no,Between 1 and 2 L,no,2 or 4 days,0–2 hours,Sometimes,Public Transportation,Overweight Level II
+Male,19.542698063547792,181.4573019364522,75.0,yes,no,Never,3,Frequently,no,Between 1 and 2 L,no,1 or 2 days,0–2 hours,Sometimes,Public Transportation,Normal Weight
+Male,24.0,175.0,84.0,no,yes,Always,3,no,no,Between 1 and 2 L,yes,1 or 2 days,0–2 hours,Sometimes,Public Transportation,Overweight Level II
+Female,26.0,166.9,112.2,yes,yes,Always,3,Sometimes,no,More than 2 L,no,I do not have,0–2 hours,Sometimes,Public Transportation,Obesity Type III
+Female,21.0,152.0,42.0,no,yes,Always,1,Frequently,no,Less than a liter,no,I do not have,0–2 hours,Sometimes,Public Transportation,Insufficient Weight
+Female,21.4,172.3,50.8,no,no,Always,3,Frequently,no,Between 1 and 2 L,no,1 or 2 days,0–2 hours,Sometimes,Public Transportation,Insufficient Weight
+Female,19.3,166.1,49.9,no,yes,Sometimes,3,Sometimes,no,Between 1 and 2 L,no,2 or 4 days,3–5 hours,Sometimes,Public Transportation,Insufficient Weight
+Male,19.7,181.7,86.5,yes,yes,Sometimes,3,Sometimes,no,Between 1 and 2 L,no,I do not have,0–2 hours,Sometimes,Public Transportation,Overweight Level I
+Male,26.707932674481576,176.8302172351468,82.74532585272017,no,yes,Never,3,Frequently,no,Between 1 and 2 L,no,1 or 2 days,3–5 hours,no,Motorbike,Overweight Level I
+Female,26.0,165.0,104.8,yes,yes,Always,3,Sometimes,no,More than 2 L,no,I do not have,3–5 hours,Sometimes,Public Transportation,Obesity Type III
+Female,47.3,164.4,82.0,yes,yes,Sometimes,1,Sometimes,no,Between 1 and 2 L,no,I do not have,0–2 hours,no,Automobile,Obesity Type I
+Female,23.0,165.6,82.5,yes,yes,Always,1,Sometimes,no,More than 2 L,no,I do not have,0–2 hours,Sometimes,Public Transportation,Obesity Type I
+Female,21.0,172.4,133.0,yes,yes,Always,3,Sometimes,no,Between 1 and 2 L,no,2 or 4 days,3–5 hours,Sometimes,Public Transportation,Obesity Type III
+Female,21.883176665147275,148.91285250341863,62.11285250341863,yes,no,Sometimes,1,Sometimes,no,Between 1 and 2 L,no,I do not have,3–5 hours,no,Public Transportation,Overweight Level II
+Male,38.1,175.3,119.2,yes,yes,Sometimes,3,Sometimes,no,Between 1 and 2 L,no,1 or 2 days,3–5 hours,Sometimes,Automobile,Obesity Type II
+Female,17.8,178.7,50.0,no,yes,Always,3+,Sometimes,no,Less than a liter,no,2 or 4 days,3–5 hours,Sometimes,Public Transportation,Insufficient Weight
+Male,18.0,178.0,108.0,yes,no,Sometimes,3,Sometimes,no,More than 2 L,no,1 or 2 days,0–2 hours,no,Public Transportation,Obesity Type I
+Male,21.0,180.0,73.0,yes,yes,Never,3,Always,no,Between 1 and 2 L,no,4 or 5 days,3–5 hours,Sometimes,Public Transportation,Normal Weight
+Male,35.3,178.0,102.3,yes,yes,Always,1,Sometimes,no,More than 2 L,no,4 or 5 days,3–5 hours,Sometimes,Automobile,Obesity Type I
+Female,21.0,160.0,61.0,no,yes,Sometimes,3,Sometimes,no,Less than a liter,no,1 or 2 days,3–5 hours,Sometimes,Public Transportation,Normal Weight
+Female,26.0,163.2,111.6,yes,yes,Always,3,Sometimes,no,More than 2 L,no,I do not have,0–2 hours,Sometimes,Public Transportation,Obesity Type III
+Male,33.1,170.68181840124308,83.0,yes,yes,Sometimes,2,Sometimes,no,Less than a liter,no,2 or 4 days,0–2 hours,no,Automobile,Overweight Level II
+Male,21.0,167.6,75.0,yes,yes,Sometimes,3,Sometimes,no,Less than a liter,no,1 or 2 days,0–2 hours,Sometimes,Public Transportation,Overweight Level I
+Male,27.2,168.0,102.9,yes,yes,Always,1,Sometimes,no,Less than a liter,no,I do not have,3–5 hours,no,Public Transportation,Obesity Type II
+Male,24.2,176.9,97.4,yes,yes,Sometimes,3,Sometimes,no,More than 2 L,no,2 or 4 days,3–5 hours,no,Public Transportation,Obesity Type I
+Female,22.0,171.1,52.0,yes,yes,Always,3,Frequently,no,Less than a liter,no,2 or 4 days,3–5 hours,no,Public Transportation,Insufficient Weight
+Female,18.3,180.9,140.3,yes,yes,Always,3,Sometimes,no,More than 2 L,no,2 or 4 days,3–5 hours,Sometimes,Public Transportation,Obesity Type III
+Female,21.0,150.0,42.3,yes,no,Never,1,Sometimes,no,Between 1 and 2 L,no,4 or 5 days,0–2 hours,no,Public Transportation,Normal Weight
+Female,16.005522117123604,166.0055221171236,58.01104423424721,no,no,Sometimes,1,Frequently,no,Between 1 and 2 L,no,I do not have,3–5 hours,no,Public Transportation,Normal Weight
+Male,19.2,163.8,70.0,yes,yes,Sometimes,1,Sometimes,no,Between 1 and 2 L,no,1 or 2 days,0–2 hours,no,Public Transportation,Overweight Level I
+Male,31.085416502539914,166.07916620711177,101.44687485228592,yes,yes,Always,2,Sometimes,no,Less than a liter,no,2 or 4 days,0–2 hours,no,Public Transportation,Obesity Type II
+Female,21.7,160.5,68.0,yes,yes,Sometimes,3,no,no,More than 2 L,no,1 or 2 days,0–2 hours,Sometimes,Public Transportation,Overweight Level I
+Female,22.7,162.8,82.0,yes,yes,Sometimes,1,Sometimes,no,Between 1 and 2 L,no,I do not have,3–5 hours,Sometimes,Public Transportation,Obesity Type I
+Male,20.0,172.0,70.0,yes,yes,Always,3,Frequently,no,Less than a liter,no,I do not have,0–2 hours,Sometimes,Public Transportation,Normal Weight
+Female,26.0,162.2,105.3,yes,yes,Always,3,Sometimes,no,Less than a liter,no,I do not have,0–2 hours,Sometimes,Public Transportation,Obesity Type III
+Male,33.7,170.1,107.0,yes,yes,Always,3,Sometimes,no,Less than a liter,no,2 or 4 days,0–2 hours,no,Automobile,Obesity Type II
+Female,19.6,156.7,41.7,no,yes,Always,1,Frequently,no,Less than a liter,no,I do not have,3–5 hours,Sometimes,Public Transportation,Insufficient Weight
+Female,19.0,169.0,70.0,yes,no,Sometimes,1,no,no,Between 1 and 2 L,no,2 or 4 days,0–2 hours,no,Public Transportation,Normal Weight
+Male,22.9,187.7,121.3,yes,yes,Always,3,Sometimes,no,Between 1 and 2 L,no,1 or 2 days,0–2 hours,Sometimes,Public Transportation,Obesity Type II
+Female,17.0,158.0,50.0,no,yes,Never,3+,Frequently,no,Between 1 and 2 L,no,1 or 2 days,More than 5 hours,Sometimes,Public Transportation,Normal Weight
+Female,26.0,162.6,111.4,yes,yes,Always,3,Sometimes,no,More than 2 L,no,I do not have,0–2 hours,Sometimes,Public Transportation,Obesity Type III
+Male,26.7,181.94132709263502,118.3,yes,yes,Sometimes,3,Sometimes,no,Between 1 and 2 L,no,1 or 2 days,0–2 hours,Sometimes,Public Transportation,Obesity Type II
+Male,26.6,169.0,103.2,yes,yes,Always,1,Sometimes,no,Less than a liter,no,I do not have,3–5 hours,no,Public Transportation,Obesity Type II
+Male,18.0,170.0,80.0,no,no,Always,1,Sometimes,no,Less than a liter,no,1 or 2 days,0–2 hours,no,Public Transportation,Overweight Level II
+Female,22.8,160.5,82.0,yes,yes,Never,1,Sometimes,no,Between 1 and 2 L,no,I do not have,3–5 hours,Sometimes,Public Transportation,Obesity Type I
+Male,17.053969213238908,181.4984002278942,58.723815279433445,yes,yes,Always,3,Sometimes,no,Between 1 and 2 L,no,2 or 4 days,0–2 hours,no,Automobile,Insufficient Weight
+Female,21.1,173.0,131.9,yes,yes,Always,3,Sometimes,no,Less than a liter,no,2 or 4 days,3–5 hours,Sometimes,Public Transportation,Obesity Type III
+Female,26.0,162.4,110.0,yes,yes,Always,3,Sometimes,no,Between 1 and 2 L,no,I do not have,0–2 hours,Sometimes,Public Transportation,Obesity Type III
+Male,22.4,175.5,105.0,yes,yes,Always,3,Sometimes,no,More than 2 L,no,1 or 2 days,0–2 hours,Sometimes,Public Transportation,Obesity Type I
+Female,17.0,165.0,67.0,yes,yes,Always,1,Sometimes,no,Between 1 and 2 L,no,1 or 2 days,3–5 hours,no,Walking,Normal Weight
+Female,16.0,160.0,57.0,no,yes,Always,3,Sometimes,no,Less than a liter,no,4 or 5 days,0–2 hours,no,Public Transportation,Normal Weight
+Female,21.2,170.8,121.9,yes,yes,Always,3,Sometimes,no,Between 1 and 2 L,no,1 or 2 days,3–5 hours,Sometimes,Public Transportation,Obesity Type III
+Male,17.8,185.4,59.9,yes,yes,Always,3+,Sometimes,no,Between 1 and 2 L,no,2 or 4 days,0–2 hours,no,Automobile,Insufficient Weight
+Female,21.0,165.0,88.0,yes,yes,Sometimes,1,Sometimes,no,More than 2 L,no,2 or 4 days,3–5 hours,no,Public Transportation,Obesity Type I
+Male,26.5,187.3,120.9,yes,yes,Sometimes,3,Sometimes,no,More than 2 L,no,1 or 2 days,3–5 hours,Sometimes,Public Transportation,Obesity Type II
+Female,26.0,160.1,110.1,yes,yes,Always,3,Sometimes,no,More than 2 L,no,I do not have,0–2 hours,Sometimes,Public Transportation,Obesity Type III
+Male,21.0,162.0,70.0,no,yes,Sometimes,1,no,no,More than 2 L,no,1 or 2 days,0–2 hours,Sometimes,Public Transportation,Overweight Level I
+Male,23.6,171.5,85.1,yes,yes,Sometimes,3,Sometimes,no,Between 1 and 2 L,no,I do not have,3–5 hours,Sometimes,Public Transportation,Overweight Level II
+Male,17.19319942741578,189.5308013905617,60.0,no,no,Always,3,Sometimes,no,Between 1 and 2 L,no,2 or 4 days,0–2 hours,no,Motorbike,Insufficient Weight
+Male,18.0,171.7,51.1,yes,yes,Sometimes,3,Sometimes,no,Less than a liter,no,1 or 2 days,More than 5 hours,Sometimes,Public Transportation,Insufficient Weight
+Male,34.2,184.3,92.7,yes,yes,Sometimes,2,Sometimes,no,More than 2 L,no,1 or 2 days,0–2 hours,Sometimes,Automobile,Overweight Level II
+Female,16.9,174.8,49.9,no,yes,Sometimes,3+,Sometimes,no,Less than a liter,no,2 or 4 days,3–5 hours,Sometimes,Public Transportation,Insufficient Weight
+Female,32.4,164.1,46.7,yes,yes,Always,3,Frequently,no,More than 2 L,no,1 or 2 days,0–2 hours,no,Public Transportation,Insufficient Weight
+Male,26.0,170.0,70.0,yes,no,Always,1,Frequently,no,Between 1 and 2 L,no,2 or 4 days,0–2 hours,Frequently,Public Transportation,Normal Weight
+Male,25.1,176.7,112.2,yes,yes,Never,3,Sometimes,no,Between 1 and 2 L,no,1 or 2 days,0–2 hours,Sometimes,Public Transportation,Obesity Type II
+Male,20.0,181.7,85.0,yes,yes,Always,3,Sometimes,no,More than 2 L,no,2 or 4 days,3–5 hours,Sometimes,Public Transportation,Overweight Level I
+Male,18.30609752671864,185.0278270478835,60.36175162248566,yes,yes,Always,3+,Sometimes,no,Between 1 and 2 L,no,1 or 2 days,0–2 hours,Sometimes,Automobile,Insufficient Weight
+Female,18.1,182.8,152.7,yes,yes,Always,3,Sometimes,no,Between 1 and 2 L,no,2 or 4 days,3–5 hours,Sometimes,Public Transportation,Obesity Type III
+Male,19.6,170.6,78.0,yes,no,Sometimes,3,Sometimes,no,Between 1 and 2 L,no,1 or 2 days,3–5 hours,Sometimes,Public Transportation,Overweight Level II
+Female,38.4,169.9,78.6,yes,yes,Always,3,Sometimes,no,More than 2 L,no,I do not have,0–2 hours,no,Automobile,Overweight Level II
+Male,18.7,185.5,112.9,yes,yes,Sometimes,2,Sometimes,no,More than 2 L,no,1 or 2 days,More than 5 hours,Sometimes,Public Transportation,Obesity Type I
+Male,35.4,178.0,100.8,yes,yes,Sometimes,1,Sometimes,no,More than 2 L,no,2 or 4 days,0–2 hours,Frequently,Automobile,Obesity Type I
+Female,26.0,164.1,104.8,yes,yes,Always,3,Sometimes,no,More than 2 L,no,I do not have,3–5 hours,Sometimes,Public Transportation,Obesity Type III
+Male,18.0,180.7,108.8,yes,yes,Sometimes,1,Sometimes,no,Between 1 and 2 L,no,1 or 2 days,More than 5 hours,no,Public Transportation,Obesity Type I
+Male,33.2,168.5,84.0,yes,yes,Sometimes,2,Sometimes,no,Between 1 and 2 L,no,1 or 2 days,0–2 hours,no,Automobile,Overweight Level II
+Male,30.59354435690184,175.69354435690184,119.19354435690184,yes,yes,Always,3,Sometimes,no,Between 1 and 2 L,no,1 or 2 days,0–2 hours,Sometimes,Automobile,Obesity Type II
+Female,22.9,170.0,80.0,yes,yes,Sometimes,3,Sometimes,no,Between 1 and 2 L,no,1 or 2 days,More than 5 hours,no,Public Transportation,Overweight Level II
+Male,21.5,185.0,122.6,yes,yes,Always,2,Sometimes,no,Less than a liter,no,I do not have,0–2 hours,Sometimes,Public Transportation,Obesity Type II
+Female,18.0,145.0,53.0,no,yes,Sometimes,3,Frequently,no,Between 1 and 2 L,yes,1 or 2 days,More than 5 hours,Frequently,Public Transportation,Overweight Level I
+Female,18.3,174.6,133.6,yes,yes,Always,3,Sometimes,no,More than 2 L,no,2 or 4 days,3–5 hours,Sometimes,Public Transportation,Obesity Type III
+Female,18.1,160.2,82.4,yes,yes,Sometimes,3,Sometimes,no,Less than a liter,no,1 or 2 days,0–2 hours,no,Public Transportation,Obesity Type I
+Female,22.7,160.8,82.6,yes,yes,Always,1,Sometimes,no,More than 2 L,no,I do not have,More than 5 hours,Sometimes,Public Transportation,Obesity Type I
+Female,25.8,165.6,110.2,yes,yes,Always,3,Sometimes,no,Between 1 and 2 L,no,I do not have,0–2 hours,Sometimes,Public Transportation,Obesity Type III
+Female,38.5,151.7,79.8,yes,yes,Sometimes,3,Sometimes,no,Less than a liter,no,I do not have,0–2 hours,Sometimes,Automobile,Obesity Type I
+Female,21.7,172.0,132.3,yes,yes,Always,3,Sometimes,no,Between 1 and 2 L,no,2 or 4 days,3–5 hours,Sometimes,Public Transportation,Obesity Type III
+Male,24.1,170.7,85.7,yes,yes,Sometimes,3,Sometimes,no,More than 2 L,no,I do not have,3–5 hours,Sometimes,Public Transportation,Overweight Level II
+Male,22.9,180.0,90.0,yes,yes,Never,2,Sometimes,no,Between 1 and 2 L,no,I do not have,3–5 hours,Sometimes,Public Transportation,Overweight Level II
+Female,23.0,161.1,82.5,yes,yes,Sometimes,3,Sometimes,no,Between 1 and 2 L,no,2 or 4 days,0–2 hours,no,Public Transportation,Obesity Type I
+Male,31.9,175.0,118.1,yes,yes,Sometimes,3,Sometimes,no,Between 1 and 2 L,no,I do not have,0–2 hours,Sometimes,Automobile,Obesity Type II
+Female,24.0,156.0,60.0,yes,yes,Never,3,Always,no,Between 1 and 2 L,no,I do not have,More than 5 hours,Sometimes,Public Transportation,Normal Weight
+Male,22.2,171.8,81.9,yes,yes,Sometimes,1,Sometimes,no,Between 1 and 2 L,no,1 or 2 days,3–5 hours,Sometimes,Public Transportation,Overweight Level II
+Male,26.0,181.2,106.0,yes,yes,Always,3,Sometimes,no,More than 2 L,no,2 or 4 days,3–5 hours,Sometimes,Public Transportation,Obesity Type I
+Male,26.7,184.0,120.0,yes,yes,Sometimes,3,Sometimes,no,More than 2 L,no,1 or 2 days,0–2 hours,Sometimes,Public Transportation,Obesity Type II
+Male,35.0,175.69679852764057,84.85519983640451,yes,no,Always,3,Frequently,no,More than 2 L,no,2 or 4 days,3–5 hours,Sometimes,Automobile,Overweight Level II
+Male,23.0,162.0,58.0,no,no,Sometimes,3,Sometimes,no,Less than a liter,no,1 or 2 days,0–2 hours,no,Public Transportation,Normal Weight
+Male,19.0,174.0,74.0,yes,no,Always,1,Sometimes,no,More than 2 L,no,4 or 5 days,3–5 hours,Sometimes,Walking,Normal Weight
+Male,21.0,161.3,69.5,no,yes,Sometimes,1,no,no,More than 2 L,no,1 or 2 days,0–2 hours,Sometimes,Public Transportation,Overweight Level I
+Male,22.1,179.3,90.0,yes,yes,Sometimes,2,Sometimes,no,Between 1 and 2 L,no,I do not have,3–5 hours,Sometimes,Public Transportation,Overweight Level II
+Female,20.505683754811926,160.06704470968774,44.906817883875085,no,no,Always,2,Frequently,no,Between 1 and 2 L,no,1 or 2 days,0–2 hours,Sometimes,Public Transportation,Insufficient Weight
+Female,24.3,158.7,79.1,yes,yes,Sometimes,1,Sometimes,no,Between 1 and 2 L,no,1 or 2 days,0–2 hours,no,Public Transportation,Obesity Type I
+Female,21.974580873255906,169.02541912674408,65.0,yes,yes,Sometimes,2,Frequently,no,Between 1 and 2 L,no,1 or 2 days,3–5 hours,Frequently,Public Transportation,Normal Weight
+Female,19.339103217285224,152.72179356542955,42.0,no,yes,Always,1,Frequently,no,Between 1 and 2 L,no,I do not have,3–5 hours,Sometimes,Public Transportation,Insufficient Weight
+Female,19.0,161.0,53.8,yes,yes,Sometimes,3,Always,no,Between 1 and 2 L,no,2 or 4 days,3–5 hours,Sometimes,Public Transportation,Normal Weight
+Male,21.0,162.0,70.0,no,yes,Sometimes,1,no,no,More than 2 L,no,1 or 2 days,0–2 hours,Sometimes,Public Transportation,Overweight Level I
+Female,26.0,162.3,110.8,yes,yes,Always,3,Sometimes,no,More than 2 L,no,I do not have,0–2 hours,Sometimes,Public Transportation,Obesity Type III
+Male,19.579205833713182,183.95747165831003,89.12967583827135,yes,yes,Sometimes,3+,Sometimes,no,Less than a liter,no,2 or 4 days,0–2 hours,Sometimes,Public Transportation,Overweight Level I
+Female,18.9,174.6,133.7,yes,yes,Always,3,Sometimes,no,More than 2 L,no,2 or 4 days,3–5 hours,Sometimes,Public Transportation,Obesity Type III
+Male,31.0,188.6,129.3,yes,yes,Sometimes,3,Sometimes,yes,Less than a liter,no,1 or 2 days,3–5 hours,Sometimes,Public Transportation,Obesity Type II
+Male,31.923700180743282,190.7928240569082,100.13238958661461,yes,yes,Sometimes,1,Sometimes,no,Between 1 and 2 L,no,1 or 2 days,0–2 hours,Sometimes,Automobile,Overweight Level II
+Male,18.7,170.5,81.4,yes,yes,Always,1,Sometimes,no,Between 1 and 2 L,no,2 or 4 days,3–5 hours,Sometimes,Public Transportation,Overweight Level II
+Female,17.0,156.0,51.0,no,yes,Always,3,Sometimes,no,Less than a liter,no,I do not have,More than 5 hours,no,Public Transportation,Normal Weight
+Male,25.3,177.2,114.9,yes,yes,Sometimes,3,Sometimes,no,Between 1 and 2 L,no,2 or 4 days,0–2 hours,Sometimes,Public Transportation,Obesity Type II
+Female,17.145453594613347,160.4636376070441,65.02727280041435,yes,yes,Always,1,Sometimes,no,Between 1 and 2 L,yes,I do not have,3–5 hours,Sometimes,Public Transportation,Overweight Level I
+Female,22.0,170.4,51.4,yes,yes,Always,3,Frequently,no,Between 1 and 2 L,no,2 or 4 days,3–5 hours,no,Public Transportation,Insufficient Weight
+Female,26.0,163.9,111.9,yes,yes,Always,3,Sometimes,no,More than 2 L,no,I do not have,0–2 hours,Sometimes,Public Transportation,Obesity Type III
+Female,23.410399672809017,158.97240008179776,64.32720229033687,no,yes,Sometimes,3,Sometimes,no,Less than a liter,no,2 or 4 days,More than 5 hours,Sometimes,Public Transportation,Overweight Level I
